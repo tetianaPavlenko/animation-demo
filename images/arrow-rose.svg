@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="9"
+     viewBox="0 0 11 9">
+    <defs>
+        <path id="2kuta" d="M325.975 817.116l-5.345 8.472-4.886-8.472z"/>
+        <clipPath id="2kutb">
+            <use fill="#fff" xlink:href="#2kuta"/>
+        </clipPath>
+    </defs>colo
+    <g>
+        <g transform="translate(-315 -817)">
+            <use fill="#fff" fill-opacity="0" stroke="#fff" stroke-miterlimit="50" stroke-width="2"
+                 clip-path="url(&quot;#2kutb&quot;)" xlink:href="#2kuta"/>
+        </g>
+    </g>
+</svg>
